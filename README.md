@@ -15,6 +15,8 @@ For the Russian version, see [README.ru.md](README.ru.md).
 You'll need a C++ compiler like `g++`.
 
 # Compile the source code
+git clone https://github.com/Sam1624/matrix-rain-cpp.git
+cd matrix-rain-cpp
 g++ main.cpp -o matrix_rain -std=c++17 -pthread
 
 # Run the application
