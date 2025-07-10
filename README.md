@@ -1,5 +1,7 @@
 # Matrix Digital Rain in C++
 
+![Matrix Rain Demo](./images/screenshot1.jpg)
+
 A simple console application for POSIX-compliant systems (Linux, macOS) that simulates the "digital rain" effect from The Matrix movie.
 
 This project was created as a learning exercise with the help of an AI assistant (ChatGPT by OpenAI) to explore console graphics in C++.
@@ -21,4 +23,6 @@ cd matrix-rain-cpp
 g++ main.cpp -o matrix_rain -std=c++17 -pthread
 ```
 # Run the application
+```bash
 ./matrix_rain
+```
