@@ -15,9 +15,10 @@
 Вам понадобится C++ компилятор, например, `g++`.
 
 # Скомпилировать исходный код
+```bash
 git clone https://github.com/Sam1624/matrix-rain-cpp.git
 cd matrix-rain-cpp
 g++ main.cpp -o matrix_rain -std=c++17 -pthread
-
+```
 # Запустить приложение
 ./matrix_rain
